@@ -1,0 +1,24 @@
+body {
+    color:goldenrod;
+    background-color: pink;
+}
+
+.heading {
+    width:80%;
+    font-size: 22px;
+    color:indigo;
+}
+
+#webcam {
+    border:2px dashed red;
+    width:350px;
+    height:200px;
+}
+
+#name_of_person , #accuracy {
+    color:red;
+}
+
+.person_label , .accuracy_label {
+    color:black;
+}
